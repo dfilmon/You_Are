@@ -1,4 +1,5 @@
 <h1>YOU ARE</h1>
+<p>A typing game that reminds you of all the things that you are.</p>
 <h3>Check it out on <a href="https://codepen.io/dfilmon/pen/WNXqBMJ/73558d57678f43c7f7d4b6a7436d9fa7">codepen</a>.</h3>
 
 
