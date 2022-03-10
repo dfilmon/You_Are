@@ -1,0 +1,33 @@
+body{
+    padding: 3rem;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    height: 100vh;
+  }
+  
+  
+  
+  h1{
+    margin: 1rem 0 3rem 0rem;
+    color: white;
+  }
+  
+  
+  input{
+    color: #0093E9;
+    width: 90vw;
+    height: 7rem;
+    font-size: 2rem;
+    padding: 3rem;
+    border-radius: 1rem;
+  }
+  
+  input:focus{
+    border: none;
+    outline: none;
+  }
+  
+  #current-word{
+    font-size: 14vw;
+  }
+  
